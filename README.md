@@ -28,7 +28,7 @@ pip install -U stable-ts
 
 To install the lastest commit:
 ```
-pip install -U git+https://github.com/jianfch/stable-ts.git
+pip install -U git+https://github.com/SinanAkkoyun/whisper-stable-ts-prob.git
 ```
 
 ### Command-line usage

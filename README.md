@@ -1,4 +1,4 @@
-# Stabilizing Timestamps for Whisper
+# OpenAI Whisper: Stabilizing Timestamps
 
 This script modifies [OpenAI's Whisper](https://github.com/openai/whisper) to produce more reliable timestamps.
 
